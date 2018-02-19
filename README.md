@@ -1,4 +1,4 @@
-# cplusplus-practice-set-3  
+# Project-Euler-solutions  
 Practices taken from https://projecteuler.net/archives  
   
 Problem 1 - Multiples of 3 and 5 (Completed)  
